@@ -1,0 +1,11 @@
+<!-- res/menu/bottom_nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Search"
+        android:icon="@drawable/search_icon"/>
+    <item
+        android:id="@+id/favouritesFragment"
+        android:title="Saved"
+        android:icon="@drawable/ic_favorite_border"/>
+</menu>

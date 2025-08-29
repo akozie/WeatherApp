@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="hint_city">Enter city name</string>
+    <string name="btn_fetch">Get Weather</string>
+    <string name="btn_save_favorite">Save as Favorite</string>
+    <string name="btn_view_details">View Details</string>
+    <string name="loading">Loading...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_enter_a_city_name_to_get_weather_updates">Please enter a city name to get weather updates</string>
+</resources>
